@@ -1,8 +1,16 @@
 /*
 COLORS:
 
-Light green: #7ed56f
-Medium green: #55c57a
-Dark green: #28b485
+Light blue: #4CB9FF
+Medium blue: #2482BF
+Dark blue: #1F6EA2
 
 */
+
+*, 
+*::before,
+*::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
