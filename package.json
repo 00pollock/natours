@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Natours Landing Page",
+  "main": "index.js",
+  "scripts": {
+    "compile:sass": "node-sass sass/main.scss css/style.css -w" 
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syntacticgeorge/natours.git"
+  },
+  "author": "George",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/syntacticgeorge/natours/issues"
+  },
+  "homepage": "https://github.com/syntacticgeorge/natours#readme",
+  "devDependencies": {
+    "node-sass": "^4.14.1"
+  }
+}
